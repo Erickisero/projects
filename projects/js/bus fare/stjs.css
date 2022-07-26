@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(190, 189, 189);
+}
+.dom{
+    background-color: green;
+}
+#dom1{
+    float: left;
+    height: 100%;
+    margin-top: 100px;
+    margin-left: 400px;
+}
